@@ -1,4 +1,4 @@
-# MT_project00-0
+# MT_project00
 <div align="center">Registration/Authorization form testing</div>
 
 ---
