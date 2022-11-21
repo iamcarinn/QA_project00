@@ -5,7 +5,7 @@
 
 Educational project MT_project00 from organization «School 21 and the National Research Tomsk State University, TSU.
 
-## Task
+## Tasks
 
 On the SberMarket website https://sbermarket.ru/ there is a form for registration/authorization.
 Consider a situation where there is no documentation (requirements and technical specifications) for this form.
