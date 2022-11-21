@@ -3,7 +3,7 @@
 
 ---
 
-Educational project QA_project00 from organization «School 21 and the National Research Tomsk State University, TSU.
+Educational project from organization «School 21 and the National Research Tomsk State University, TSU.
 
 ## Tasks
 
