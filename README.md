@@ -1,6 +1,5 @@
 # QA_project00
 Registration/Authorization form testing
-
 ---
 
 Educational project from organization «School 21 and the National Research Tomsk State University, TSU.
