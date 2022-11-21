@@ -1,9 +1,9 @@
-# MT_project00
+# QA_project00
 <div align="center">Registration/Authorization form testing</div>
 
 ---
 
-Educational project MT_project00 from organization «School 21 and the National Research Tomsk State University, TSU.
+Educational project QA_project00 from organization «School 21 and the National Research Tomsk State University, TSU.
 
 ## Tasks
 
