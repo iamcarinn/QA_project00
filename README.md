@@ -1,5 +1,5 @@
 # QA_project00
-<div align="center">Registration/Authorization form testing</div>
+Registration/Authorization form testing
 
 ---
 
